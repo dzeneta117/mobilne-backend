@@ -1,7 +1,7 @@
 package com.mobilneshop.Mobilneshop.enums;
 
 public enum ProductCategory {
-     SPAVACESOBE,
+    SPAVACESOBE,
     GARNITURE,
     STOISTOLICE
 }
